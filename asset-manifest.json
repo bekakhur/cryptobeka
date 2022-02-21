@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cryptobeka/static/css/main.8ef9fa71.css",
+    "main.js": "/cryptobeka/static/js/main.78870088.js",
+    "index.html": "/cryptobeka/index.html",
+    "main.8ef9fa71.css.map": "/cryptobeka/static/css/main.8ef9fa71.css.map",
+    "main.78870088.js.map": "/cryptobeka/static/js/main.78870088.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ef9fa71.css",
+    "static/js/main.78870088.js"
+  ]
+}
